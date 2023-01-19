@@ -1,0 +1,15 @@
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/bin/Debug/net7.0/task_25
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/bin/Debug/net7.0/task_25.deps.json
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/bin/Debug/net7.0/task_25.runtimeconfig.json
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/bin/Debug/net7.0/task_25.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/bin/Debug/net7.0/task_25.pdb
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.csproj.AssemblyReference.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.AssemblyInfoInputs.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.AssemblyInfo.cs
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.csproj.CoreCompileInputs.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/refint/task_25.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.pdb
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/task_25.genruntimeconfig.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_4/task_25/obj/Debug/net7.0/ref/task_25.dll
